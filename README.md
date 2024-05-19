@@ -1,6 +1,5 @@
 # Hello, I'm Jit Bahadur Khadka! 👋
 
-![Header](https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub+Profile)
 
 I'm a passionate software developer focused on web development and open-source contributions. I love building innovative solutions and sharing knowledge with the community.
 
@@ -16,11 +15,10 @@ I'm a passionate software developer focused on web development and open-source c
 ## 🚀 Projects
 
 ### [Awesome Project](https://github.com/johnsmith/awesome-project)
-![Awesome Project Screenshot](https://via.placeholder.com/600x300.png?text=Project+Screenshot)
+
 A brief description of your project. Highlight key features, tech stack, and its purpose.
 
 ### [Another Project](https://github.com/johnsmith/another-project)
-![Another Project Screenshot](https://via.placeholder.com/600x300.png?text=Project+Screenshot)
 A brief description of your project. Highlight key features, tech stack, and its purpose.
 
 ## 📈 GitHub Stats
@@ -41,9 +39,9 @@ A brief description of your project. Highlight key features, tech stack, and its
 
 ## 📫 Contact Me
 
-- **Email**: johnsmith@example.com
-- **LinkedIn**: [John Smith](https://www.linkedin.com/in/johnsmith)
-- **Twitter**: [@johnsmith](https://twitter.com/johnsmith)
+- **Email**: jitendrakhadka4@gmail.com
+- **LinkedIn**: [Jit Bahadur Khadka](https://www.linkedin.com/in/jitendrakhadka4)
+- **Twitter**: [@jtendrakhadka8](https://twitter.com/johnsmith)
 
 ## 🌐 Connect with Me
 
