@@ -23,12 +23,12 @@ A brief description of your project. Highlight key features, tech stack, and its
 
 ## 📈 GitHub Stats
 
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnsmith&show_icons=true&theme=radical)
+![Jit Bahadur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnsmith&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsmith&layout=compact&theme=radical)
 
 ## 🏆 Achievements
 
-- 🥇 First Place in XYZ Hackathon
+- 🥇 First Place in Nishana 
 - 📜 Certified Java Developer
 - 💡 Published an article in Tech Magazine
 
