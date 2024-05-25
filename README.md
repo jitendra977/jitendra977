@@ -11,8 +11,12 @@ I'm a passionate software developer In JAVA focused on web development and Backe
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-DD0031?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-6DB33F?style=for-the-badge&logo=HTML&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-DD0031?style=for-the-badge&logo=CSS&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySql](https://img.shields.io/badge/Mysql-F7DF1E?style=for-the-badge&logo=Mysql&logoColor=black)
 ![AdobePhotoshop](https://img.shields.io/badge/Adobe_photoshop-2496ED?style=for-the-badge&logo=adobephotoshpo&logoColor=white)
 
 ## 🚀 Projects
