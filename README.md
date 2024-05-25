@@ -9,17 +9,21 @@ I'm a passionate software developer focused on web development and open-source c
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-DD0031?style=for-the-badge&logo=python&logoColor=white)
+![AdobePhotoshop](https://img.shields.io/badge/photoshop-2496ED?style=for-the-badge&logo=adobephotoshpo&logoColor=white)
 
 ## 🚀 Projects
 
-### [Awesome Project](https://github.com/johnsmith/awesome-project)
+### [Employee Management System]([https://github.com/jitendra977/awesome-project](https://github.com/jitendra977/E-mapp1.0/tree/a03a4142418547ccbc394d03be5be6a4a24729ca))
 
-A brief description of your project. Highlight key features, tech stack, and its purpose.
+This Project Error Solved me.
 
-### [Another Project](https://github.com/johnsmith/another-project)
-A brief description of your project. Highlight key features, tech stack, and its purpose.
+### [Monthly Budget Tracker]([https://github.com/jitendra977/another-project](https://github.com/jitendra977/mysite))
+**[Monthly Budget Management System]** 
+- **Add Income/Expense Entries:**-Record Various Source of income
+- **Edit/Delete Entries:**-Modify or remove financial status with a detailed summary of all transactions
+- **Summary View:**-Get an overview of monthly financial status with a detailed summary of all transactions.
+-**Categorization:**-Organize entries into categories for better financial analysis.
 
 
 ## 🏆 Achievements
