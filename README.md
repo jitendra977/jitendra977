@@ -1,22 +1,29 @@
+
 # Hello, I'm Jit Bahadur Khadka! 👋
+<img src="https://raw.githubusercontent.com/jitendra977/jitendra977/main/IMG_4228.JPG" alt="My Profile Image" width="200" height="200" style="border-radius: 50%;">
 
 
-I'm a passionate software developer focused on web development and open-source contributions. I love building innovative solutions and sharing knowledge with the community.
+I'm a passionate software developer In JAVA focused on web development and Backend API Development. I love building innovative solutions and sharing knowledge with the community.
 
 ## 🛠 Technologies & Tools
+
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-DD0031?style=for-the-badge&logo=python&logoColor=white)
-![AdobePhotoshop](https://img.shields.io/badge/photoshop-2496ED?style=for-the-badge&logo=adobephotoshpo&logoColor=white)
+![AdobePhotoshop](https://img.shields.io/badge/Adobe_photoshop-2496ED?style=for-the-badge&logo=adobephotoshpo&logoColor=white)
 
 ## 🚀 Projects
 
 ### [Employee Management System]([https://github.com/jitendra977/awesome-project](https://github.com/jitendra977/E-mapp1.0/tree/a03a4142418547ccbc394d03be5be6a4a24729ca))
-
-This Project Error Solved me.
+## Features
+- **Employee Management**: Add, remove, update, and view employee details.
+- **Search**: Search for employees based on various criteria such as name, department, or employee ID.
+- **Attendance Tracking**: Keep track of employee attendance records.
+- **Leave Management**: Manage employee leave requests and approvals.
+- **Reporting**: Generate reports on employee performance, attendance, and other relevant metrics.
 
 ### [Monthly Budget Tracker]([https://github.com/jitendra977/another-project](https://github.com/jitendra977/mysite))
 **[Monthly Budget Management System]** 
@@ -27,18 +34,17 @@ This Project Error Solved me.
 
 
 ## 🏆 Achievements
-
 - 🥇 First Place in Nishana 
 - 📜 Certified Java Developer
 - 💡 Published an article in Tech Magazine
 
-## ✍️ Blog Posts
-
-- [Understanding Async Programming in JavaScript](https://yourblog.com/async-programming-js)
-- [Getting Started with Spring Boot](https://yourblog.com/spring-boot)
-
+## ✍️ Personal WEBSITE
+- [Jit Bahadur Khadka](https://jbk.com.np/)
+  
+### Spoken Languages
+- [Nepaleese is Mother Language, Hindi, Japanese and English]
+  
 ## 📫 Contact Me
-
 - **Email**: jitendrakhadka4@gmail.com
 - **LinkedIn**: [Jit Bahadur Khadka](https://www.linkedin.com/in/jitendrakhadka4)
 - **Twitter**: [@jtendrakhadka8](https://twitter.com/johnsmith)
