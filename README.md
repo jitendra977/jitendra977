@@ -21,10 +21,6 @@ A brief description of your project. Highlight key features, tech stack, and its
 ### [Another Project](https://github.com/johnsmith/another-project)
 A brief description of your project. Highlight key features, tech stack, and its purpose.
 
-## 📈 GitHub Stats
-
-![Jit Bahadur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnsmith&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsmith&layout=compact&theme=radical)
 
 ## 🏆 Achievements
 
@@ -45,9 +41,9 @@ A brief description of your project. Highlight key features, tech stack, and its
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnsmith)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johnsmith)
-[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://johnsmith.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jit-bahadur-khadka)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jitendrakhadka8)
+[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://jbk.com.np)
 
 ## 📝 License
 
