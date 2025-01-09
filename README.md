@@ -6,12 +6,12 @@ I'm a passionate software developer In JAVA focused on web development and Backe
 
 ## 🛠 Technologies & Tools
 
-
+![Python](https://img.shields.io/badge/Python-DD0031?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Python-DD0031?style=for-the-badge&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-DD0031?style=for-the-badge&logo=python&logoColor=white)
 ![AdobePhotoshop](https://img.shields.io/badge/Adobe_photoshop-2496ED?style=for-the-badge&logo=adobephotoshpo&logoColor=white)
 
 ## 🚀 Projects
