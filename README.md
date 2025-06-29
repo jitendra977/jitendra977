@@ -16,11 +16,6 @@ I'm a passionate software developer In JAVA focused on web development and Backe
 
 ## 🚀 Projects
 
-Here’s your updated section using your Home Server project with proper formatting, markdown links, and clear feature descriptions:
-
-⸻
-
-## 🚀 Projects
 
 ### 🏠 [Smart Home Server System](https://github.com/jitendra977/home_server)
 
