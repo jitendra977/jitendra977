@@ -16,25 +16,74 @@ I'm a passionate software developer In JAVA focused on web development and Backe
 
 ## 🚀 Projects
 
-### 💡[Employee Management System]([https://github.com/jitendra977/awesome-project](https://github.com/jitendra977/E-mapp1.0/tree/a03a4142418547ccbc394d03be5be6a4a24729ca))
-## Features
-- **Employee Management**: Add, remove, update, and view employee details.
-- **Search**: Search for employees based on various criteria such as name, department, or employee ID.
-- **Attendance Tracking**: Keep track of employee attendance records.
-- **Leave Management**: Manage employee leave requests and approvals.
-- **Reporting**: Generate reports on employee performance, attendance, and other relevant metrics.
+Here’s your updated section using your Home Server project with proper formatting, markdown links, and clear feature descriptions:
 
-### 🥇[Monthly Personal Budget Tracker]([https://github.com/jitendra977/another-project](https://github.com/jitendra977/mysite))
-**[Monthly Budget Management System]** 
-- **Add Income/Expense Entries:**-Record Various Source of income
-- **Edit/Delete Entries:**-Modify or remove financial status with a detailed summary of all transactions
-- **Summary View:**-Get an overview of monthly financial status with a detailed summary of all transactions.
--**Categorization:**-Organize entries into categories for better financial analysis.
+⸻
 
+## 🚀 Projects
 
+### 🏠 [Smart Home Server System](https://github.com/jitendra977/home_server)
+
+A powerful Django-based smart home automation platform designed for **IoT control, device monitoring**, and **real-time dashboard management** — using MQTT, ESP32, and Raspberry Pi.
+
+---
+
+### 🧰 Tools & Technologies
+
+- 🐍 **Django** — Fullstack backend framework for web and API
+- 💡 **MQTT (paho-mqtt)** — Lightweight protocol to communicate with devices
+- 📱 **ESP32** — IoT microcontroller to toggle and sense appliances
+- 🍓 **Raspberry Pi** — Acts as a local home automation server
+- 🔧 **ESPHome** — YAML-based firmware for ESP devices
+- 💻 **Ubuntu CMD** — CLI operations and deployments
+- 🧠 **Compared To:** Home Assistant (this project is fully customizable and built from scratch for learners and developers)
+
+---
+
+### ✅ Features
+
+- **Device Management**  
+  ➤ Add, edit, delete smart devices like lights, fans, sensors
+
+- **Room & User Mapping**  
+  ➤ Assign devices to rooms and associate them with specific users
+
+- **Authentication System**  
+  ➤ Secure login/logout with role-based access (admin vs normal user)
+
+- **MQTT Integration**  
+  ➤ Publish/subscribe MQTT messages to control ESP32 with `paho-mqtt`
+
+- **ESP32 + ESPHome Compatible**  
+  ➤ Easily receive messages from ESPHome YAML sensors or send control topics
+
+- **Real-Time Dashboard**  
+  ➤ Built with Tailwind CSS & Bootstrap for a stunning device control panel
+
+- **REST API Ready**  
+  ➤ Built-in Django REST Framework support for frontend and mobile control
+
+- **Admin Panel**  
+  ➤ Django admin support for user and device management
+
+- **Mobile Responsive UI**  
+  ➤ Dashboard adapts to phones, tablets, and desktops
+---
+
+### 📷 Sample Devices You Can Control
+
+- 💡 Smart Bulbs
+- 🔌 Smart Plugs
+- 🌡️ Temperature & Humidity Sensors
+- 🪟 Door & Window Sensors
+- 🔐 Security Systems
+
+⸻
+
+Let me know if you want a visual badge section or to add another project to the list.
 ## 🏆 Achievements
 - 🥇 First Place in Nishana 
-- 📜 Certified Java Developer
+- 📜 Certified Python Developer
 - 💡 Published an article in Tech Magazine
 
 ## ✍️ Personal WEBSITE
